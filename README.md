@@ -9,3 +9,8 @@ I'm a graduate in Computer Science 🎓 from NIIT College 🏛. I'm a passionate
 - 🛠 &nbsp; I’m currently working with React, Redux, Nodejs, Express, <br /> Graphql, Mongodb, Javascript, etc.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github]([https://github.com/iampavangandhi](https://github.com/nhattruongniit?tab=repositories).
 - 📫 &nbsp; How to reach me: nhattruong1811@gmail.com
+
+
+### Projects and Dev Stuffs:
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nhattruongniit&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
