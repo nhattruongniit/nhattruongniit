@@ -7,7 +7,7 @@ I'm a graduate in Computer Science 🎓 from NIIT College 🏛. I'm a passionate
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with React, Redux, Vue, Angular, Javascript, Nodejs, Express, Graphql, Mongodb, etc.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github]([https://github.com/iampavangandhi](https://github.com/nhattruongniit?tab=repositories).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github]([https://github.com/nhattruongniit])(https://github.com/nhattruongniit?tab=repositories).
 - 📫 &nbsp; How to reach me: nhattruong1811@gmail.com
 
 
